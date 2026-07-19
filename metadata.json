@@ -1,0 +1,6 @@
+{
+  "name": "Nitika AI Assistant",
+  "description": "Professional educational AI assistant and professor companion powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
